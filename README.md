@@ -15,6 +15,7 @@ As an ALX Student who is undertaking the Software Engineering Program; we are pr
 
 1. [0x00-hello_world](./0x00-hello_world)
 2. [0x01-variables_if_else_while](./0x01-variables_if_else_while)
+3. [0x02-functions_nested_loops](./0x02-functions_nested_loops)
 
 ## Topics Covered
 
@@ -44,6 +45,15 @@ In the [0x01-variables_if_else_while](./0x01-variables_if_else_while) course, we
 * Logical operators
 * while loop in C
 * While loop
+
+In the [0x02-functions_nested_loops](./0x02-functions_nested_loops) course, we covered the following topic and resources:
+
+- Nested while loops
+- C - Functions
+- Learning to Program in C (Part 06)
+- What is the purpose of a function prototype?
+- C - Header Files
+
 
 ## Tools/Environment
 
