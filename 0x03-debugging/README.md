@@ -126,7 +126,7 @@ carrie@ubuntu:/debugging$
 
 ## 0>972?
 
-[2-largest_number.c](https://github.com/thecoderace/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor), [main.h](./main.h) - This program prints the largest of three integers.
+[2-largest_number.c](./2-largest_number), [main.h](./main.h) - This program prints the largest of three integers.
 
 ```
 carrie@ubuntu:/debugging$ cat 2-main.c
