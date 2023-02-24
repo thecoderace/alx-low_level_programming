@@ -1,4 +1,4 @@
-## Project: 0x04. C - More functions, nested loops
+# Project: 0x04. C - More functions, nested loops
 
 ## What are functions?
 
