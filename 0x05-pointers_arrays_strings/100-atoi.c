@@ -6,7 +6,6 @@
  *
  * Return: the integer value of the input string
  */
-
 int _atoi(char *s)
 {
     int i = 0;
