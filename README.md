@@ -19,6 +19,7 @@ As an ALX Student who is undertaking the Software Engineering Program; we are pr
 3. [0x02-functions_nested_loops](./0x02-functions_nested_loops)
 4. [0x03-debugging](./0x03-debugging)
 5. [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops)
+6. [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)
 
 ## Topics Covered
 
@@ -70,11 +71,19 @@ In the [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops) co
 - What is the purpose of a function prototype?
 - C - Header Files
 
+In the [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings) course, we covered the following resource topics:
+
+* C - Arrays
+* C - Pointers
+* C - Strings
+* Memory Layout
+
 ## Tools/Environment
 
 * Language: C
 * Ubuntu 20.04 LTS
 * Allowed editors: vi, vim, emacs
+* Compiler: gcc
 * Style Guideline: Betty style
 
 ## Author
