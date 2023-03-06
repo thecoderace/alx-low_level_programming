@@ -1,4 +1,4 @@
-# Project: 0x07. C - Even more pointers, arrays and strings
+# Project: 0x07. C - Even more Pointers, Arrays and Strings
 
 ## What are Pointers, arrays and strings in C?
 
