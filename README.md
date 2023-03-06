@@ -20,6 +20,8 @@ As an ALX Student who is undertaking the Software Engineering Program; we are pr
 4. [0x03-debugging](./0x03-debugging)
 5. [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops)
 6. [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)
+7. [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)
+8. [0x07-pointers_arrays_strings](.0x07-pointers_arrays_strings/)
 
 ## Topics Covered
 
@@ -77,6 +79,21 @@ In the [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings) course, we
 * C - Pointers
 * C - Strings
 * Memory Layout
+
+In the [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings) course, we covered the following resource topics:
+
+* What are pointers and how to use them
+* What are arrays and how to use them
+* What are the differences between pointers and arrays
+* How to use strings and how to manipulate them
+* Scope of variables
+
+In the [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings) course, we covered the following resource topics:
+
+* C - Pointer to Pointer
+* C – Pointer to Pointer with example
+* Multi-dimensional Arrays in C
+* Two dimensional (2D) arrays in C programming with example
 
 ## Tools/Environment
 
