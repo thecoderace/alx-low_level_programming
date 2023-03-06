@@ -424,3 +424,47 @@ julien@ubuntu:~/0x07$ ./8-print_diagsums
 1214556093, 1137318
 julien@ubuntu:~/0x07$
 ```
+
+# Advanced Tasks:
+
+## Double pointer, double fun
+
+[100-set_string.c](./100-set_string.c) -  Write a function that sets the value of a pointer to a char.
+
+* Prototype: `void set_string(char **s, char *to);`
+
+```
+julien@ubuntu:~/0x07$ cat 100-main.c
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    char *s0 = "Bob Dylan";
+    char *s1 = "Robert Allen";
+
+    printf("%s, %s\n", s0, s1);
+    set_string(&s1, s0);
+    printf("%s, %s\n", s0, s1);
+    return (0);
+}
+julien@ubuntu:~/0x07$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-main.c 100-set_string.c -o 100-set_string
+julien@ubuntu:~/0x07$ ./100-set_string 
+Bob Dylan, Robert Allen
+Bob Dylan, Bob Dylan
+julien@ubuntu:~/0x07$
+```
+
+## My primary goal of hacking was the intellectual curiosity, the seduction of adventure
+
+[101-crackme_password](./101-crackme_password) - Create a file that contains the password for the [crackme2](https://github.com/holbertonschool/0x06.c) executable.
+
+* Your file should contain the exact password, no new line, no extra space
+* `ltrace`, `ldd`, `gdb` and `objdump` can help
+* You may need to install the `openssl` library to run the `crakme2` program: `sudo apt install libssl-dev`
+* Edit the source list `sudo nano /etc/apt/sources.list` to add the following line: `deb http://security.ubuntu.com/ubuntu xenial-security main` Then `sudo apt update` and `sudo apt install libssl1.0.0`
