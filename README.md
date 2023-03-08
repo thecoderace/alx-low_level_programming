@@ -22,6 +22,7 @@ As an ALX Student who is undertaking the Software Engineering Program; we are pr
 6. [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)
 7. [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)
 8. [0x07-pointers_arrays_strings](.0x07-pointers_arrays_strings/)
+9. [0x08-recursion](./0x08-recursion)
 
 ## Topics Covered
 
@@ -37,7 +38,6 @@ In the [0x00-hello_world](./0x00-hello_world) course, we covered the following r
 * Betty Coding Style
 * Hash-bang under the hood
 * Linus Torvalds on C vs. C++
-
 
 In the [0x01-variables_if_else_while](./0x01-variables_if_else_while) course, we covered the following resource topics:
 
@@ -94,6 +94,14 @@ In the [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings) course, we
 * C – Pointer to Pointer with example
 * Multi-dimensional Arrays in C
 * Two dimensional (2D) arrays in C programming with example
+
+In the [0x08-recursion](./0x08-recursion) course, we covered the following resource topics:
+
+* 0x08. Recursion, introduction
+* What on Earth is Recursion?
+* C - Recursion
+* C Programming Tutorial 85, Recursion pt.1
+* C Programming Tutorial 86, Recursion pt.2
 
 ## Tools/Environment
 
