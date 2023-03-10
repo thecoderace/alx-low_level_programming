@@ -23,6 +23,8 @@ As an ALX Student who is undertaking the Software Engineering Program; we are pr
 7. [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)
 8. [0x07-pointers_arrays_strings](.0x07-pointers_arrays_strings/)
 9. [0x08-recursion](./0x08-recursion)
+10. [0x09-static_libraries](./0x09-static_libraries)
+11. [0x0A-argc_argv](./0x0A-argc_argv)
 
 ## Topics Covered
 
@@ -102,6 +104,20 @@ In the [0x08-recursion](./0x08-recursion) course, we covered the following resou
 * C - Recursion
 * C Programming Tutorial 85, Recursion pt.1
 * C Programming Tutorial 86, Recursion pt.2
+
+In the [0x09-static_libraries](./0x09-static_libraries) course, we covered the following resource topics:
+
+* What Is A “C” Library? What Is It Good For?
+* Creating A Static “C” Library Using “ar” and “ranlib”
+* Using A “C” Library In A Program
+* What is difference between Dynamic and Static library(Static and Dynamic linking)
+
+In the [0x0A-argc_argv](./0x0A-argc_argv) course, we covered the following resource topics:
+
+* Arguments to main
+* argc and argv
+* What does argc and argv mean?
+* how to compile with unused variables
 
 ## Tools/Environment
 
