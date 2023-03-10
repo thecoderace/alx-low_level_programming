@@ -7,7 +7,6 @@
  * @argvv: a argv
  * Return: true only if entire string is a number, false if not
  */
-
 bool is_num(char *argvv)
 {
 	int j = 0;
@@ -26,7 +25,6 @@ bool is_num(char *argvv)
  * @argv: arguments
  * Return: 0 on success, 1 if an argument wasn't a number
  */
-
 int main(int argc, char *argv[])
 {
 	int i = 1;
